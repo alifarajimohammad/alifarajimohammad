@@ -6,30 +6,30 @@
 I am a data analyst, researcher, and developer with expertise in machine learning, deep learning, time series forecasting, and automation. I also have experience in full-stack development, working with JavaScript and React to build interactive data-driven applications. My passion lies in leveraging AI, data analytics, and modern web technologies to solve complex problems.
 
 🔬 Research & Development Interests
--Time Series Forecasting (LSTM, Transformer models, ARIMA)
+- Time Series Forecasting (LSTM, Transformer models, ARIMA)
 
--Deep Learning & Neural Networks
+- Deep Learning & Neural Networks
 
--Anomaly Detection & Pattern Recognition
+- Anomaly Detection & Pattern Recognition
 
--Automation & ETL for Large-Scale Data Processing
+- Automation & ETL for Large-Scale Data Processing
 
--Graph Theory & Network Analysis
+- Graph Theory & Network Analysis
 
--Full-Stack Development for Data Applications
+- Full-Stack Development for Data Applications
 
 💡 Skills & Tools
--Programming: Python (TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy), R (tidyverse, ggplot2, forecast)
+- Programming: Python (TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy), R (tidyverse, ggplot2, forecast)
 
--Web Development: JavaScript, React.js, Node.js, Express.js
+- Web Development: JavaScript, React.js, Node.js, Express.js
 
--Machine Learning & AI: Supervised & Unsupervised Learning, Clustering, Anomaly Detection
+- Machine Learning & AI: Supervised & Unsupervised Learning, Clustering, Anomaly Detection
 
--Big Data & Databases: SQL, PyODBC, Data Engineering Pipelines
+- Big Data & Databases: SQL, PyODBC, Data Engineering Pipelines
 
--Automation & ETL: Apache NiFi, OpenPyXL, Workflow Optimization
+- Automation & ETL: Apache NiFi, OpenPyXL, Workflow Optimization
 
--Data Visualization: Matplotlib, Seaborn, Plotly, ggplot2
+- Data Visualization: Matplotlib, Seaborn, Plotly, ggplot2
 
 🎯 What You’ll Find Here
 This GitHub showcases my work in data science, AI research, automation, and full-stack development. I focus on building scalable solutions for data processing, predictive modeling, and interactive web applications.
