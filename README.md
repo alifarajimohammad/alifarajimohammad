@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ali
 #### I am a data analyst
-![I am a data analyst](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a data analyst]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/alifarajimohammad/alifarajimohammad/blob/main/ChatGPT%20Image%20Apr%203%2C%202025%2C%2001_15_05%20AM.png))
 
 
 👋 About Me
