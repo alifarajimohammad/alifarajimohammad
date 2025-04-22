@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Ali
 #### I am a data analyst
-![I am a data analyst](https://github.com/alifarajimohammad/alifarajimohammad/blob/main/b.png)
-
+##![I am a data analyst](https://github.com/alifarajimohammad/alifarajimohammad/blob/main/b.png)
+![me](https://github.com/Daisyliu6/Daisyliu6/blob/main/covid_us_ConfirmedCases_Anim.gif)
 👋 About Me
 I am a data analyst, researcher, and developer with expertise in machine learning, deep learning, time series forecasting, and automation. I also have experience in full-stack development, working with JavaScript and React to build interactive data-driven applications. My passion lies in leveraging AI, data analytics, and modern web technologies to solve complex problems.
 
